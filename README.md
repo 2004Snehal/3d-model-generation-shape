@@ -5,6 +5,14 @@ This project demonstrates 3D asset generation from text prompts using OpenAI's *
 
 ---
 
+
+## 🎥 Video Demo
+
+Watch a full demo of the 3D model generation process and API usage:  
+[▶️ Click to watch on YouTube](https://youtu.be/ym_xpzOyj_8)
+
+---
+
 ## Setup Instructions
 
 ### Environment Setup
@@ -87,3 +95,4 @@ mnt/extra/
 * **Use Case**: 3D asset generation for games and content pipelines
 
 ---
+
