@@ -15,8 +15,7 @@ cd mnt/extra
 # Activate virtual environment
 source shap-e-env/bin/activate
 
-# Install dependencies
-pip install -r shap-e/requirements.txt
+
 ````
 
 ---
@@ -61,7 +60,7 @@ A futuristic chair with sleek design
   * `chair.ply`
   * `car.ply`
 
-For larger outputs, refer to: [Google Drive Link](https://drive.google.com/your-link)
+
 
 ---
 
@@ -84,7 +83,7 @@ mnt/extra/
 
 * **Model**: Shap-E by OpenAI
 * **Output Format**: `.ply` (mesh/point cloud)
-* **Platform**: Local or Colab (CPU-friendly setup supported)
+* **Platform**: Local (GPU-friendly setup supported)
 * **Use Case**: 3D asset generation for games and content pipelines
 
 ---
