@@ -1,8 +1,4 @@
-Here’s a **clean, professional version of your `README.md`** (no emojis, no casual tone):
 
----
-
-````markdown
 # 3D Model Generation Tool (Shap-E Based)
 
 This project demonstrates 3D asset generation from text prompts using OpenAI's **Shap-E** model. The output is in **.ply (Polygon File Format)**, making it compatible with 3D pipelines and game development workflows.
