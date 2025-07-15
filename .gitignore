@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Shap-E model cache & outputs
+shap_e_model_cache/
+shap_e_outputs/
+
+# Inside shap-e folder cache
+shap-e/__pycache__/
+shap-e/shap_e_model_cache/
+
+# Python virtual environments
+shap-e-env/
+venv/
+.env/
+*.env
+
+# VSCode settings (optional, good practice if you're using VSCode)
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Colab / Jupyter checkpoints (if any)
+.ipynb_checkpoints/
